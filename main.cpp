@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 void symbol (char style, int number , int space) {
   for (size_t i = 0;i<number;i++){
     if (!isnan(space)&&space>0){
@@ -32,5 +31,6 @@ int main () {
   cout<<" aq shegidzlia igrialo ukve"<<endl;
   symbol('_',15,1);
   symbol('#',15,1);
+  system("pause");
   return 0;
 }
