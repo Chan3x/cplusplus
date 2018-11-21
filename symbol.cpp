@@ -20,14 +20,14 @@ void symbol (char style, int number , int space) {
 int main () {
   /*
   symbol('1',2,3) funqciis meshveobit shegidzliat gamoataninot
-  1)sasurveli simbolo
-  2)misi raodenoba
-  3)simboloebis shoris dashorebis raodenoba , 0 s tu chavwert gamotoveba agar eqneba
+  1)any kinde of symbol
+  2)how much do you want to print 1) symbol
+  3)space between symbols
   */
   symbol('_',15,1);
   symbol('*',15,1);
   symbol('=',15,1);
-  cout<<" aq shegidzlia igrialo ukve"<<endl;
+  cout<<" here you go !  "<<endl;
   symbol('_',15,1);
   symbol('#',15,1);
   system("pause");
