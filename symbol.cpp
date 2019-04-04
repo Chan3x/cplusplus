@@ -21,7 +21,7 @@ int main () {
   /*
   symbol('1',2,3)  with my function you can easly print in console symbols and spaces between them 
   1)any kinde of symbol
-  2)how much do you want to print 1) symbol
+  2)how many do you want to print 1) symbol
   3)space between symbols
   */
   symbol('_',15,1);
