@@ -20,7 +20,7 @@ void symbol (char style, int number , int space) {
 int main () {
   /*
   symbol('1',2,3)  with my function you can easly print in console symbols and spaces between them 
-  1)any kinde of symbol
+  1)any kind of symbol
   2)how many do you want to print 1) symbol
   3)space between symbols
   */
